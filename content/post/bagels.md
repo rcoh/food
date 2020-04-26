@@ -2,7 +2,7 @@
 title: "How to make a bagel"
 image: "bagels.jpg" 
 date: 2020-04-26T16:21:30-04:00
-draft: true
+draft: false
 ---
 # Bagels
 
