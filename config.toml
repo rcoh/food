@@ -2,3 +2,5 @@ theme = "newsroom"
 baseURL = "https://food.rcoh.me/"
 languageCode = "en-us"
 title = "Underproofed, overbaked: Russell's assorted recipes"
+[params]
+   ga_analytics = "UA-111671237-4" # google analytics ID e.g UA-116386578-1
