@@ -24,6 +24,7 @@ These English muffins made me realize I liked English muffins. Grocery store one
 - 2 tbsp extra virgin olive oil
 - 4 tbsp unsalted butter
 - 1 tbsp sugar
+- 2 tsp salt
 
 ---
 
