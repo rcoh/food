@@ -15,6 +15,8 @@ These bagels are exceptionally delicious and come together without tons of work.
 > "Damn these are good. Dude seriously so. Good. Thanks." -- AJ
 >
 > "I can't tell you how happy we both are for this recipe" -- AJ's mom
+>
+> "They were amazing! Done searching, will use this recipe forever." -- Clara
 
 
 **Yield:** Approx Baker's dozen depending on size. Feel free to halve everything if you're living in a apocalyptic quarantine without an office of people to share with. But they will also freeze well.
@@ -76,7 +78,7 @@ Finally, shape each bagel. Press your thumb into the center of each roll until y
 
 Refrigerate overnight 8-36h.
 
-> If the refrigeration time is longer than 8 hours, you'll want to be sure your fridge is <37f or there the bagels are likely to overproof.
+> If the refrigeration time is longer than 8 hours, you'll want to be sure your fridge is <37f or the bagels are likely to overproof. If you pull the bagels out of the fridge and see copious exterior bubbles, you've likely overproofed. They will still be delicious, but will probably deflate during baking.
 
 ---
 *The next day...*
